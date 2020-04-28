@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Avast 바이러스 백신-2020</string>
+    <string name="no_found" >There is not any result.</string>
+    <string name="loading" >Please wait a moment.</string>
+</resources>

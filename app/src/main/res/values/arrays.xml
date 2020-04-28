@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_numbers">
+        <item>18008282</item>
+        <item>15662210</item>
+        <item>16619400</item>
+        <item>15990038</item>
+        <item>15449191</item>
+        <item>15446700</item>
+        <item>0516086420</item>
+        <item>18777788</item>
+        <item>15443637</item>
+        <item>0639002000</item>
+        <item>0326575000</item>
+        <item>15999000</item>
+        <item>15442525</item>
+        <item>16443939</item>
+        <item>15667979</item>
+        <item>15660008</item>
+        <item>18998500</item>
+        <item>0221673883</item>
+        <item>131</item>
+        <item>123</item>
+        <item>1382</item>
+        <item>1369</item>
+        <item>1355</item>
+        <item>126</item>
+        <item>1345</item>
+        <item>1350</item>
+        <item>110</item>
+        <item>129</item>
+        <item>1372</item>
+        <item>121</item>
+        <item>182</item>
+        <item>1332</item>
+        <item>1397</item>
+        <item>1357</item>
+        <item>1396</item>
+        <item>132</item>
+        <item>1330</item>
+        <item>1335</item>
+        <item>188</item>
+        <item>1301</item>
+        <item>128</item>
+        <item>1331</item>
+        <item>1390</item>
+        <item>1381</item>
+        <item>1336</item>
+        <item>1365</item>
+        <item>1333</item>
+        <item>1379</item>
+        <item>1377</item>
+        <item>1380</item>
+        <item>1337</item>
+        <item>1398</item>
+        <item>1338</item>
+        <item>027481111</item>
+
+        <item>15221000</item>
+        <item>15888585</item>
+        <item>15883388</item>
+        <item>16613000</item>
+        <item>15885050</item>
+        <item>15886200</item>
+        <item>15881515</item>
+        <item>15778000</item>
+        <item>15884477</item>
+        <item>15880079</item>
+        <item>15662566</item>
+        <item>15881500</item>
+        <item>15881599</item>
+        <item>15887000</item>
+        <item>15993333</item>
+        <item>15991111</item>
+        <item>15885330</item>
+        <item>15448600</item>
+        <item>0427201000</item>
+        <item>15889999</item>
+        <item>15885000</item>
+
+        <item>15881688</item>
+        <item>15447000</item>
+        <item>18001111</item>
+        <item>15888100</item>
+        <item>15776000</item>
+        <item>15889955</item>
+        <item>16444000</item>
+        <item>15888700</item>
+
+        <item>15990011</item>
+        <item>15880010</item>
+        <item>15440010</item>
+
+        <item>15999687</item>
+        <item>15222726</item>
+        <item>15442619</item>
+        <item>16619002</item>
+        <item>16449407</item>
+
+    </string-array>
+</resources>
